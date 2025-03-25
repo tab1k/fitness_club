@@ -2,7 +2,7 @@
 
 🚀 *FitnessClassApp* – это веб-приложение на **Flask**, которое помогает управлять клиентами, расписанием занятий и тренерами в фитнес-зале.  
 
-![Fitness Gym](static/img/hero/hero-1.jpg)
+![Fitness Gym](https://raw.githubusercontent.com/tab1k/fitness_club/main/src/static/img/hero/hero-1.jpg)
 
 ---
 
